@@ -7,7 +7,7 @@ inicialmente irei fazer todo a estrutura do backend
 
 ao longo dos dias irei atualizando o codigo
 
-
+ps: muitos erros podemacontecer, mas estou estudando para ter o mínimo 
 
 
 Valeuuuu
