@@ -1,6 +1,6 @@
 import Express  , {Response, Request, NextFunction}from "express"
 import dotenv from "dotenv"
-import { routerMain } from "./src/Routers"
+import { routerMain } from "./Routers"
 
 dotenv.config()
 const app = Express()
@@ -25,6 +25,4 @@ app.use((error: Error , request: Request, response: Response, next: NextFunction
 })
 
 
-app.listen(process.env.PORT || 3000, ()=>{
-    console.log('I am life!')
-})
+app.listen(process.env.PORT || 3000)
