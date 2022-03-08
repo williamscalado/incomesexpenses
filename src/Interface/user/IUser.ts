@@ -9,5 +9,4 @@ export interface IUser{
     phone: string,
     createAt: Date,
     active: boolean,
-
 }

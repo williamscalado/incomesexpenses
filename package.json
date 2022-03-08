@@ -12,11 +12,12 @@
     "yup": "^0.32.11"
   },
   "scripts": {
-    "dev" : "nodemon src/server.ts"
+    "dev": "nodemon src/server.ts"
   },
   "devDependencies": {
     "@types/dotenv": "^8.2.0",
     "@types/express": "^4.17.13",
+    "@types/jsonwebtoken": "^8.5.8",
     "@types/mongoose": "^5.11.97",
     "@types/yup": "^0.29.13",
     "nodemon": "^2.0.15"
