@@ -3,7 +3,7 @@
 
 Olá pessoal tudo na paz? espero que sim!
 
-Desenvolvendo API com conceitos SOLID e clean code utilizando NodeJS, Typescript e MongooDB
+Desenvolvendo API com conceitos SOLID e clean code utilizando NodeJS, Typescript e MongoDB
 
 
 inicialmente irei fazer todo a estrutura do backend
